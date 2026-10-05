@@ -1,7 +1,7 @@
 # Why Most ML Vulnerability Detection Fails
 
 **(And What Actually Worked for Kernel Bugs)**
-[un]prompted, San Francisco, March 2026 · [slides](slides.pptx)
+[un]prompted, San Francisco, March 2026 · [recording](https://www.youtube.com/watch?v=93jhfuL-ndo) · [slides](slides.pptx)
 
 ---
 
